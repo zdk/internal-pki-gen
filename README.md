@@ -1,11 +1,11 @@
 # Build it
 
-go build -o internal-pki-gen
+`go build -o internal-pki-gen`
 
 # Run with default domain (mydomain.internal)
 
-./internal-pki-gen
+`./internal-pki-gen`
 
 # Or specify a custom domain
 
-./internal-pki-gen yourdomain.internal
+`./internal-pki-gen yourdomain.internal`
