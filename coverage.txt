@@ -3,7 +3,7 @@ internal-pki-gen/main.go:27.55,28.22 1 1
 internal-pki-gen/main.go:28.22,30.3 1 1
 internal-pki-gen/main.go:31.2,34.3 1 1
 internal-pki-gen/main.go:37.41,38.55 1 1
-internal-pki-gen/main.go:38.55,40.3 1 0
+internal-pki-gen/main.go:38.55,40.3 1 1
 internal-pki-gen/main.go:43.2,44.16 2 1
 internal-pki-gen/main.go:44.16,46.3 1 1
 internal-pki-gen/main.go:49.2,49.62 1 1
